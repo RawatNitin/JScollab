@@ -1,4 +1,4 @@
-# JScollab1. 
+# JScollab 
 1. Create promise polyfill
 2. Bind polyfill without using call apply
 3. What is scope its datatype (in depth)
