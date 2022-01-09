@@ -1,4 +1,5 @@
-# JScollab1. Create promise polyfill
+# JScollab1. 
+1. Create promise polyfill
 2. Bind polyfill without using call apply
 3. What is scope its datatype (in depth)
 4. Function hoisting (tricky)
